@@ -1,2 +1,3 @@
-# Matematica_finaceira
-PROGRAMINHA PARA CALCULAR JUROS SIMPLES E COMPOSTOS, QUE ESTOU APREENDENDO ESTUDANDO MATEMÁTICA FINANCEIRA  E LINGUAGEM C.
+# Projeto: Programa para calcular juros simples e compostos.
+🔹Meus primeiros passos na linguagem C. Na cadeira de Computação Eletrônica da UFPE.
+Criei uma calculadora de juros  que estou aprendendo nos estudos de matemática financeira e poderá servir para melhorias no código futuramente.
